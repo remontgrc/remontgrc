@@ -5,10 +5,12 @@ table, th, td {
 	font-size: 10pt;
 	width: 100%;
 }
+
 td {
 	text-align: center;
 	}
+
 .stats {
 	text-align: justify
-	max-width: 150px;
+	max-width: 200px;
 }
