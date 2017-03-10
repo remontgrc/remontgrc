@@ -1,0 +1,14 @@
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 2px;
+	font-size: 10pt;
+	width: 100%;
+}
+td {
+	text-align: center;
+	}
+.stats {
+	text-align: justify
+	max-width: 300px
+}
