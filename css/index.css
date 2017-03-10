@@ -4,17 +4,15 @@ h1 {
 	word-spacing: 0.03em;
 }
 table, th, td {
-	border: 1px solid black;
+	border: 5px solid black;
 	border-collapse: collapse;
 	padding: 2px;
 	font-size: 10pt;
 }
 td {
 	text-align: center;
-	border: 1px solid black;
 	}
 .stats {
 	text-align: justify
 	max-width: 300px
-	border: 1px solid black;
 }
