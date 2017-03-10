@@ -8,12 +8,13 @@ table, th, td {
 	border-collapse: collapse;
 	padding: 2px;
 	font-size: 10pt;
-	width: 100%;
 }
 td {
 	text-align: center;
+	border: 1px solid black;
 	}
 .stats {
 	text-align: justify
-	max-width: 300px;
+	max-width: 300px
+	border: 1px solid black;
 }
