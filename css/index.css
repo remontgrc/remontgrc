@@ -1,5 +1,5 @@
 h1 {
-	font-family: Georgia;
+
 }
 table, th, td {
 	border: 1px solid black;
@@ -12,6 +12,4 @@ td {
 	}
 .stats {
 	text-align: justify
-	max-width: 300px
-	background-color: red;
 }
