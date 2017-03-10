@@ -1,3 +1,8 @@
+h1 {
+	font-family: Georgia;
+	letter-spacing: 0.03em;
+	word-spacing: 0.03em;
+}
 table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
@@ -5,12 +10,10 @@ table, th, td {
 	font-size: 10pt;
 	width: 100%;
 }
-
 td {
 	text-align: center;
 	}
-
 .stats {
 	text-align: justify
-	max-width: 200px;
+	max-width: 300px;
 }
